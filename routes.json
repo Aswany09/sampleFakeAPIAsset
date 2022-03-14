@@ -1,5 +1,9 @@
 {
     "/api/*": "/$1",
-    "/category/:category": "/posts/:category"
+    "/category/:category": "/category/:category",
+    "/Department/:category": "/Department/:category",
+    "/Note/:category": "/Note/:category",
+    "/Project/:category": "/Project/:category",
+    "/Tag/:category": "/Tag/:category"
 
   }
