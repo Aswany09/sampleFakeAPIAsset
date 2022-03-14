@@ -1,0 +1,34 @@
+{
+  "category": [
+    {
+      "id": "728ae7e9-38e8-4ff6-b048-188ce1b22e02",
+      "name": "Wears",
+      "description": "Latest Fashion Collections"
+    },
+    {
+      "id": "0baf8fd0-eaf2-4d15-9a3b-e6e832b52961",
+      "name": "Wears",
+      "description": "Latest Fashion Collections"
+    },
+    {
+      "id": "728ae7e9-38e8-4ff6-b048-11111111",
+      "name": "Wears",
+      "description": "Latest Fashion Collections"
+    },
+    {
+      "id": "728ae7e9-38e8-4ff6-b048-222222",
+      "name": "Wears Update",
+      "description": "Latest Fashion Collections"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
