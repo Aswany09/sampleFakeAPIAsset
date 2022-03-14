@@ -6,11 +6,6 @@
       "description": "Latest Fashion Collections"
     },
     {
-      "id": "0baf8fd0-eaf2-4d15-9a3b-e6e832b52961",
-      "name": "Wears",
-      "description": "Latest Fashion Collections"
-    },
-    {
       "id": "728ae7e9-38e8-4ff6-b048-11111111",
       "name": "Wears",
       "description": "Latest Fashion Collections"
@@ -21,12 +16,81 @@
       "description": "Latest Fashion Collections"
     }
   ],
-  "comments": [
+  "Department": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+        "id": "9713d5ae-fb61-4d5f-a078-3c308664ce3c",
+        "name": "Sports",
+        "description": "Athletic Clothes"
+      },
+      {
+        "id": "9713d5ae-fb61-4d5f-123-123",
+        "name": "Sports",
+        "description": "Athletic Clothes"
+      }
+  ],
+  "Note": [
+    {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "string",
+        "noteContent": "string",
+        "assetId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
     }
+  ],
+  "Project": [
+    {
+        "id": "220bc398-4cae-4eb5-99b8-123",
+        "name": "Walker",
+        "description": "Wear Brand"
+    }
+  ],
+  "Tag": [
+    {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "Software",
+        "color": "software tag",
+        "assets": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "name": "string",
+            "availability": 0,
+            "createdDate": "2022-03-14T11:42:39.735Z",
+            "modifiedDate": "2022-03-14T11:42:39.735Z",
+            "createdBy": "string",
+            "modifiedBy": "string",
+            "summary": "string",
+            "description": "string",
+            "location": "string",
+            "longtiude": "string",
+            "latitude": "string",
+            "barcode": "string",
+            "qrCode": "string",
+            "model": "string",
+            "brand": "string",
+            "vendor": "string",
+            "categoryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "projectId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "tags": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "name": "string",
+                "availability": 0,
+                "color": "string",
+                "assets": [
+                  "string"
+                ]
+              }
+            ],
+            "assetImages": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                "path": "string",
+                "assetId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+              }
+            ]
+          }
+        ]
+      }
   ],
   "profile": {
     "name": "typicode"
