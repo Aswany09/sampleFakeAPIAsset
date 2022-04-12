@@ -1,9 +1,9 @@
 {
     "/api/*": "/$1",
     "/category/:category": "/category/:category",
-    "/Department/:category": "/Department/:category",
-    "/Note/:category": "/Note/:category",
-    "/Project/:category": "/Project/:category",
+    "/Department/:category": "/Department/:department",
+    "/Note/:category": "/Note/:note",
+    "/Project/:category": "/Project/:project",
     "/Tag/:category": "/Tag/:category"
 
   }
